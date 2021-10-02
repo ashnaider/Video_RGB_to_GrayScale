@@ -1,5 +1,5 @@
-# Video_RGB_to_GrayScale
-Convert RGB video to GrayScale using FFMPEG API
+# Video_RGB_to_GreyScale
+Convert RGB video to GreyScale using FFMPEG API
 
 ### Source
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
